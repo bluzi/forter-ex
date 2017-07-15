@@ -4,7 +4,11 @@ A login page, with some client-side bot detection tricks.
 ## Instructions
 1. Clone the project, and run `npm install`
 2. Run the project using `npm start`
-3. Navigate to `http://localhost:3000/user/login`
+3. Navigate to http://localhost:3000/user/login
+
+# Login credentials
+*Email*: eliran013@gmail.com
+*Password*: Aa123456
 
 # Tech
 ## Client 
