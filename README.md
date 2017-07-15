@@ -8,6 +8,7 @@ A login page, with some client-side bot detection tricks.
 
 # Login credentials
 *Email*: eliran013@gmail.com
+
 *Password*: Aa123456
 
 # Tech
